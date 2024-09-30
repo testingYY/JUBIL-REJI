@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JUBIL-REJI
-- 👀 I’m interested in ... html, css, javascript, reactjs, bootstrap, tailwind, figma, mysql
+- 👀 I’m interested in ... html, css, javascript, reactjs, bootstrap, tailwind, figma
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rejijubil@gmail.com
