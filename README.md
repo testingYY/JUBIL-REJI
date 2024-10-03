@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @JUBIL-REJI
-- 👀 I’m interested in ... html, css, javascript, reactjs, bootstrap, tailwind, figma
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...rejijubil@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
 
-<!---
-JUBIL-REJI/JUBIL-REJI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
